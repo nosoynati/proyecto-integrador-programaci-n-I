@@ -14,6 +14,15 @@ Trabajo integrador final para la materia **Programación I** — Tecnicatura Uni
 ## 🎯 Objetivo
 Investigar e implementar estructuras de datos no lineales (árboles), con énfasis en su aplicación práctica y análisis de eficiencia en Python.
 
+# Proyecto Integrador - Árboles en Python
+
+Este repositorio contiene el trabajo final de la materia Programación I, centrado en estructuras de datos avanzadas con Python.
+
+📁 src: Código del árbol binario  
+🧪 tests: Casos de prueba  
+📚 docs: Marco teórico y conclusiones  
+🎞️ assets: Video y capturas
+
 ## 📖 Contenido del proyecto
 
 | Carpeta/Archivo     | Descripción |
