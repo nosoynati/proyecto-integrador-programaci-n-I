@@ -1,12 +1,12 @@
 # Proyecto Integrador - Árboles en Python
 
 ## 📋 Descripción
-Este repositorio contiene el trabajo final de la materia **Programación I** de la Tecnicatura Universitaria en Programación (a distancia). El proyecto se centra en la implementación y análisis de un **Árbol Binario de Búsqueda (BST)** en Python, explorando estructuras de datos avanzadas y su aplicación práctica.
+Este repositorio contiene el trabajo final de la materia **Programación I** de la Tecnicatura Universitaria en Programación (a distancia). El proyecto se centra en la implementación y análisis de un **Árbol Binario de listas** en Python, explorando estructuras de datos avanzadas y su aplicación práctica.
 
 El archivo principal incluye un ejemplo de uso con una lista de nombres, mostrando cómo insertar, recorrer, buscar, visualizar y eliminar nodos del árbol.
 
 ## 📌 Tema
-**Estructuras de Datos Avanzadas** — Implementación y análisis de un Árbol Binario de Búsqueda (BST).
+**Estructuras de Datos Avanzadas** — Implementación y análisis de un Árbol Binario de listas.
 
 ## 👨‍💻 Integrantes
 - Natasha Berger (GitHub: [@nosoynati](https://github.com/nosoynati))
