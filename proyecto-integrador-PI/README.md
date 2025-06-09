@@ -7,8 +7,8 @@ Este repositorio contiene el trabajo final de la materia **Programación I** de 
 **Estructuras de Datos Avanzadas** — Implementación y análisis de un Árbol Binario de Búsqueda (BST).
 
 ## 👨‍💻 Integrantes
-- Nombre Apellido (GitHub: [@usuario](https://github.com/usuario))
-- Nombre Apellido (GitHub: [@usuario](https://github.com/usuario))
+- Natasha Berger (GitHub: [@nosoynati](https://github.com/nosoynati))
+- Leonel Gonzalez (GitHub: [@LeoGittt](https://github.com/LeoGittt))
 
 ## 🎯 Objetivo
 Investigar e implementar estructuras de datos no lineales (árboles), con énfasis en su aplicación práctica y análisis de eficiencia en Python.
