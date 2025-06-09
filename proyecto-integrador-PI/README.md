@@ -17,7 +17,7 @@ Investigar e implementar estructuras de datos no lineales (árboles), con énfas
 
 | Carpeta/Archivo                  | Descripción                                      |
 |----------------------------------|-------------------------------------------------|
-| `src/arbol_binario.py`    | Implementación del árbol binario. |
+| `src/arbol_binario.py`           | Implementación del árbol binario. |
 | `tests/test_arbol.py`            | Casos de prueba para validar las funciones del árbol. |
 | `docs/marco_teorico.pdf`         | Marco teórico con referencias y fundamentos.    |
 | `docs/conclusiones.md`           | Reflexiones finales del grupo sobre el proyecto. |
