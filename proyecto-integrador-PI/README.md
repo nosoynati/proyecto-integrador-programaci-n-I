@@ -1,7 +1,6 @@
 # Proyecto Integrador - Árboles en Python
 
-# Enlace al video en youtube: 
-
+# Enlace al video en youtube: https://www.youtube.com/watch?v=2WPwZcEfiug
 
 
 
